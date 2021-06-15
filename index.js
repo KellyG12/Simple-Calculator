@@ -9,7 +9,7 @@ function divide(d,v){
     console.log(d/v);
 }
 function sub(s,l) {
-    console.log(s-1);
+    console.log(s-l);
 }
 
 add(5 , 3);
