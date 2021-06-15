@@ -15,4 +15,4 @@ function sub(s,l) {
 add(5 , 3);
 multiply(2.2,2);
 divide(8,2);
-sub(673,6);
+sub(673,1);
